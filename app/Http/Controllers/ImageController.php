@@ -9,6 +9,7 @@ class ImageController extends Controller
 {
     public function index()
     {
+        return 'index';
 
     }
 
